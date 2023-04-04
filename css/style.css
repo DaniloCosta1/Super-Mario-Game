@@ -44,6 +44,18 @@ position: relative;
     width: 200px;
     border-radius: 90px;
     background-color: rgb(106, 106, 218);
+    font-size: 30px;
+}
+
+.start{
+    margin-top: 20px;
+    
+    height: 100px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(121, 121, 125);
+    color: white;
+    font-size: 30px;
 }
 
 

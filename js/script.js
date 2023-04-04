@@ -31,3 +31,7 @@ const loop = setInterval(()=>{
 })
 
 document.addEventListener('keydown', jump);
+
+function refresh(){
+    location.reload()
+}
