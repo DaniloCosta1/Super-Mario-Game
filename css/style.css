@@ -39,7 +39,7 @@ position: relative;
 
 .button{
     
-    margin: auto;
+    margin-left: 300px;
     height: 180px;
     width: 200px;
     border-radius: 90px;
