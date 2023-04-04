@@ -34,7 +34,7 @@ position: relative;
 }
 
 .jump{
-    animation: jump 450ms ease-out;
+    animation: jump 550ms ease-out;
 }
 
 .button{
