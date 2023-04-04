@@ -37,26 +37,29 @@ position: relative;
     animation: jump 600ms ease-out;
 }
 
-.button{
-    
-    margin-left: 50%;
-    height: 180px;
-    width: 200px;
-    border-radius: 90px;
-    background-color: rgb(106, 106, 218);
-    font-size: 30px;
-}
-
 .start{
     margin-top: 20px;
     
     height: 100px;
-    width: 200px;
+    width: 150px;
     border-radius: 20px;
     background-color: rgb(121, 121, 125);
     color: white;
     font-size: 30px;
 }
+
+.button{
+    
+    margin-left: 40%;
+    margin: ;
+    height: 180px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: rgb(106, 106, 218);
+    font-size: 30px;
+}
+
+
 
 
 @keyframes pipe-animation{
