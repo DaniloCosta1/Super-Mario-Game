@@ -37,6 +37,16 @@ position: relative;
     animation: jump 450ms ease-out;
 }
 
+.button{
+    
+    margin: auto;
+    height: 180px;
+    width: 200px;
+    border-radius: 90px;
+    background-color: rgb(106, 106, 218);
+}
+
+
 @keyframes pipe-animation{
     from{
         right: -80px;
