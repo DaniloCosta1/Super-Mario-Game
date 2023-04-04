@@ -19,7 +19,7 @@
     bottom: 0;
     width: 70px;
     
-    animation: pipe-animation 1.5s infinite linear;
+    animation: pipe-animation 1.2s infinite linear;
 }
 
 .mario{
@@ -34,7 +34,7 @@ position: relative;
 }
 
 .jump{
-    animation: jump 550ms ease-out;
+    animation: jump 600ms ease-out;
 }
 
 .button{
